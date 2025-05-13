@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e322a0bc34b83472",
+    "type": "split",
+    "children": [
+      {
+        "id": "53981ae6f2cc9301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f34899e68c138b79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quelles sont les étapes pour créer un quiz.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quelles sont les étapes pour créer un quiz"
+            }
+          },
+          {
+            "id": "4ae1f35325b17dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quelles sont les étapes pour créer un quiz.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quelles sont les étapes pour créer un quiz"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d1bd9fbe3f350a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1c382cbac6e2a6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da59ad8424cae244",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "81dd699d84651ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "13b69bd39091dc73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "242e875c9bbf4b57",
+    "type": "split",
+    "children": [
+      {
+        "id": "c69d1e8f72fbaf27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1783960b7cde545",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "quelles sont les étapes pour créer un quiz partie 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour quelles sont les étapes pour créer un quiz partie 2"
+            }
+          },
+          {
+            "id": "2148498875a0f33b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "quelles sont les étapes pour créer un quiz partie 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de quelles sont les étapes pour créer un quiz partie 2"
+            }
+          },
+          {
+            "id": "59b983e1c687bf6d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "bb2af51f91cffa80",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "quelles sont les étapes pour créer un quiz partie 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de quelles sont les étapes pour créer un quiz partie 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "4ae1f35325b17dcb",
+  "lastOpenFiles": [
+    "quelles sont les étapes pour créer un quiz partie 2.md",
+    "quelles sont les étapes pour créer un quiz.md",
+    "quelles sont les meilleurs outils pour préparer un quiz en js.md",
+    "Bienvenue.md"
+  ]
+}
