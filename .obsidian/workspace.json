@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
+                "file": "groupe_quiz_js (Copie)/quelles sont les étapes pour créer un quiz.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json)"
+              "title": "quelles sont les étapes pour créer un quiz"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "0d8bb62690319323",
   "lastOpenFiles": [
-    "quelques questions sur le html css.md",
+    "Tableau de suivi - Projet la quête du code.md",
     "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
+    "quelques questions sur le html css.md",
     "Le résumé de ce que je dois coder concernant le logique de l'application (quiz).md",
     "groupe_quiz_js (Copie)/quelles sont les étapes pour créer un quiz.md",
     "travailler sur la logique du javascript (données du quiz, la logique pour afficher une question etc...).md",
