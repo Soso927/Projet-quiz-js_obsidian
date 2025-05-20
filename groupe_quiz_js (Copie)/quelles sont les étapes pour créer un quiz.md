@@ -7,7 +7,7 @@ Créer un quiz en JavaScript en groupe peut être un projet super intéressant e
     
     - Type de quiz : Développement web 
         
-    - Nombre de questions : Combien de questions voulez-vous avoir dans le quiz ?
+    - Nombre de questions : il y aura 40 questions 
         
     - Type de réponses : Réponses multiples, vrai/faux (booléen : true ou false) et champ de texte libre 
         

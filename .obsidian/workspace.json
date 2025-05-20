@@ -8,35 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "248bbdaf5ddb4aea",
+            "id": "6caa6aa1beb864b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quelques questions sur le html css.md",
-                "mode": "preview",
+                "file": "Projet Trivial Poursuit.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "quelques questions sur le html css"
+              "title": "Projet Trivial Poursuit"
             }
           },
           {
-            "id": "0d8bb62690319323",
+            "id": "d4b2d47feea510f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
-                "mode": "preview",
+                "file": "Projet Trivial Poursuit.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json)"
+              "title": "Projet Trivial Poursuit"
             }
           },
           {
-            "id": "b440267033bef299",
+            "id": "e834b9c38e95a791",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,37 +48,8 @@
               "icon": "lucide-file",
               "title": "travailler sur la logique du javascript (données du quiz, la logique pour afficher une question etc...)"
             }
-          },
-          {
-            "id": "faf346f4e5aa1c50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Le résumé de ce que je dois coder concernant le logique de l'application (quiz).md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Le résumé de ce que je dois coder concernant le logique de l'application (quiz)"
-            }
-          },
-          {
-            "id": "bd84e189b484d423",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Répartition du travail.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Répartition du travail"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 463.5
   },
   "right": {
     "id": "8c241aad5825c800",
@@ -225,13 +196,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "0d8bb62690319323",
+  "active": "6caa6aa1beb864b2",
   "lastOpenFiles": [
-    "quelques questions sur le html css.md",
-    "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
-    "Le résumé de ce que je dois coder concernant le logique de l'application (quiz).md",
+    "Tableau de suivi - Projet la quête du code.md",
     "groupe_quiz_js (Copie)/quelles sont les étapes pour créer un quiz.md",
+    "Projet Trivial Poursuit.md",
     "travailler sur la logique du javascript (données du quiz, la logique pour afficher une question etc...).md",
+    "Le résumé de ce que je dois coder concernant le logique de l'application (quiz).md",
+    "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
+    "quelques questions sur le html css.md",
     "Répartition du travail.md"
   ]
 }
