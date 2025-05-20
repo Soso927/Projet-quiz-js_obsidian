@@ -27,12 +27,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Projet Trivial Poursuit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Projet Trivial Poursuit"
+=======
+                "file": "groupe_quiz_js (Copie)/quelles sont les étapes pour créer un quiz.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "quelles sont les étapes pour créer un quiz"
+>>>>>>> 533b21a07975a3c893c731c4947102f81a6f9d43
             }
           },
           {
@@ -199,6 +208,12 @@
   "active": "6caa6aa1beb864b2",
   "lastOpenFiles": [
     "Tableau de suivi - Projet la quête du code.md",
+<<<<<<< HEAD
+=======
+    "comment faire un formulaire du type checkbox ou bouton radio avec les questions (question.json).md",
+    "quelques questions sur le html css.md",
+    "Le résumé de ce que je dois coder concernant le logique de l'application (quiz).md",
+>>>>>>> 533b21a07975a3c893c731c4947102f81a6f9d43
     "groupe_quiz_js (Copie)/quelles sont les étapes pour créer un quiz.md",
     "Projet Trivial Poursuit.md",
     "travailler sur la logique du javascript (données du quiz, la logique pour afficher une question etc...).md",
