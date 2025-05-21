@@ -11,7 +11,16 @@ porte ouvertes le jeudi 19 juin 2025
  Promesse : un trivial Pursuit 100% Bienveillant, le jeu qui compile fun, savoir et entraide ! (à reprendre plus tard)
  thème abordée : Allier développement web, bienveillance... et une pincée d'humour pour un code qui fait sourire !
  les règles : 
+couleur :
+- vert foncé : #006400
+- bleu nuit : #191970
+- blanc : #FFFFFF
 
+police : 
+- rouge script 
+- <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Rouge+Script&display=swap" rel="stylesheet">
 ### 🎲 Exemple de titre : **"Trivial Dev : le quiz bienveillant du web"**
 
 ### 📜 Règles bienveillantes pour le quiz :
